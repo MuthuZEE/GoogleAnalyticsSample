@@ -24,6 +24,7 @@
   "resources": [
     "Resources/**/*.{xib,xcassets,png,plist,json}"
   ],
+  "static_framework": true,
   "dependencies": {
     "Firebase": [],
     "Firebase/Analytics": [],
