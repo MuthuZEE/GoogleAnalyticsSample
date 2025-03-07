@@ -16,7 +16,8 @@ Pod::Spec.new do |s|
   s.frameworks = 'Foundation', 'UIKit'
   s.source_files = 'Classes/**/*.{h,m,swift}'
   s.resources = ['Resources/**/*.{xib,xcassets,png,plist,json}']
-
+  s.static_framework = true
+# all the Firebase dependancies we are using on actual app
   s.dependency 'Firebase'
   s.dependency 'Firebase/Analytics'
   s.dependency 'FirebaseAnalyticsOnDeviceConversion'
