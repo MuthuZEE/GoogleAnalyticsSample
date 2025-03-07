@@ -1,0 +1,33 @@
+{
+  "name": "AnalyticsModule",
+  "version": "1.0.0",
+  "summary": "Analytics module",
+  "description": "Contains all Analytics related.",
+  "homepage": "https://github.com/firebase/quickstart-ios/tree/main/analytics",
+  "license": "MIT",
+  "authors": {
+    "Muthuraj Muthulingam": "muthuraj.muthulingam@zee.com"
+  },
+  "source": {
+    "git": "https://github.com/firebase/quickstart-ios.git"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "requires_arc": true,
+  "swift_versions": "5.10",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "Classes/**/*.{h,m,swift}",
+  "resources": [
+    "Resources/**/*.{xib,xcassets,png,plist,json}"
+  ],
+  "dependencies": {
+    "Firebase": [],
+    "Firebase/Analytics": [],
+    "FirebaseAnalyticsOnDeviceConversion": []
+  },
+  "swift_version": "5.10"
+}

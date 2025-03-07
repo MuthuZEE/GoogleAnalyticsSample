@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-AnalyticsExampleMac/Pods-AnalyticsExampleMac-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FirebaseCore-framework-macOS/FirebaseCore.framework
+${BUILT_PRODUCTS_DIR}/FirebaseCoreInternal-framework-macOS/FirebaseCoreInternal.framework
+${BUILT_PRODUCTS_DIR}/FirebaseInstallations-framework-macOS/FirebaseInstallations.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities-framework-macOS/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC-framework-macOS/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/nanopb-framework-macOS/nanopb.framework

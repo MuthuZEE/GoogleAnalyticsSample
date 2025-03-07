@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-AnalyticsExampleTV/Pods-AnalyticsExampleTV-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FirebaseCore-framework-tvOS/FirebaseCore.framework
+${BUILT_PRODUCTS_DIR}/FirebaseCoreInternal-framework-tvOS/FirebaseCoreInternal.framework
+${BUILT_PRODUCTS_DIR}/FirebaseInstallations-framework-tvOS/FirebaseInstallations.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities-framework-tvOS/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC-framework-tvOS/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/nanopb-framework-tvOS/nanopb.framework

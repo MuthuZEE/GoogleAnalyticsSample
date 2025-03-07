@@ -1,0 +1,6 @@
+framework module Pods_AnalyticsExampleTV {
+  umbrella header "Pods-AnalyticsExampleTV-umbrella.h"
+
+  export *
+  module * { export * }
+}
