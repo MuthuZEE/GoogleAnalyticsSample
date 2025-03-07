@@ -6,6 +6,7 @@
 //
 
 import FirebaseAnalytics
+import nanopb
 
 public final class AnalyticsHelper {
     
